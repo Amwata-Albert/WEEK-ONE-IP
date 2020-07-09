@@ -17,8 +17,7 @@ languages used are:HTML and CSS only
 ## Support and contact details
 email:amwataotieno@gmail.com
 phone:+254702775901
-##live link
-https://github.com/Amwata-Albert/Portfolio-landing-page/new/master?readme=1
+##live linkhttps://github.com/Amwata-Albert/WEEK-ONE-IP
 ### License
 
   GNU GENERAL PUBLIC LICENSE
