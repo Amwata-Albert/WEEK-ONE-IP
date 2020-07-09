@@ -24,6 +24,6 @@ https://github.com/Amwata-Albert/WEEK-ONE-IP
   GNU GENERAL PUBLIC LICENSE
                        Amwata Albert, 10 July 2020
 
- Copyright (C) 2020 Free Project Foundation, Inc. https://github.com/Amwata-Albert/Portfolio-landing-page/new/master?readme=1
+ Copyright (C) 2020 Free Project Foundation, Inc.https://github.com/Amwata-Albert/WEEK-ONE-IP
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
