@@ -1,5 +1,5 @@
 body{
-    color: lightcoral;
+    color: black;
     background-color: lightgoldenrodyellow;
 }
 .header{
@@ -25,23 +25,98 @@ nav>ul>li>a:hover{
     border-radius: 50%;
     color: burlywood;
 }
-.footer{
+/* .footer{
     color:black;
     margin-top:1%;
-}
+} */
 h1{text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bolder;
 }
 .sec2{
-    float: right;
-}
-.footer2{
     float:right;
-    padding: 20px;
-    margin-top: -5%;
+    margin-bottom: 10%;
 }
-footer{
-    color: grey;
+ 
+.footer{
+    color: brown;
+    bottom: 0;
+    background-color: grey;
+    min-height: 150px;
+    margin-top: 50%;
 }
+.end1{
+    float: left;
+    width: 49%;
+    margin: 0;
+    text-align: 49%;
+    line-height: 50px;
+    text-align: center;
+}
+ .end2{
+     float:left;
+     width: 49%;
+     margin: 0;
+     text-align: center;
+}
+ .sec1{
+     min-height: 200%;
+     background-color:white;
+ }
+ .end2 i{
+ width: 140px;
+ line-height: 170px;
 
+ }
+ .animation{
+     animation: 15s myanimate infinite;
+     margin-top:10px; 
+     width :500px; 
+     height:500px;
+ }
+ @keyframes myanimate{
+     0%{
+         background-image: url('images/me.jpeg');
+         left: 0;
+     }
+     20%{
+        background-image: url('images/my image.jpg');
+        left: 100%;
+    }
+    40%{
+        background-image: url('images/my pic.jpg');
+        left: 200%;
+    }
+}
+.experience{
+    margin-top:30%;
+    width: 100%;
+    background-color: skyblue;
+    min-height: 600px;
+}
+.e1,.e2{
+    width:48%;
+    margin-left: 1%;
+    float: left;
+    margin-bottom: 100px;
+}
+.e1 img{
+    float:left;
+    width: 180px;
+}
+.e2 img{
+    float:left;
+    width: 150px;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+}
+.e3{
+    text-align: center;
+
+}
+h3{
+    margin-top: 100px;
+}
