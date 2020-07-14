@@ -37,6 +37,9 @@ h1{text-align: center;
     float:right;
     margin-bottom: 10%;
 }
+.sec2 h2{
+    font-style: oblique;
+}
 
 .sec3{
     height: 1090px;
