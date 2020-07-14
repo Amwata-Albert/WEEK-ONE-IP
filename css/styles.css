@@ -18,7 +18,7 @@ ul>li{
 nav>ul>li>a{
     text-decoration: none;
     padding: 5px;
-    color: brown;
+    color:white;
     margin-left: 10px;
 }
 nav>ul>li>a:hover{
@@ -256,4 +256,41 @@ margin-left: 150px;
 
 .courses h1{
     line-height: 70px;
+}
+.contacts{
+    text-align: center;
+    line-height: 50px;
+    background-color: darkgoldenrod;
+    height: 700px;
+}
+.sec5{
+    height: 90px;
+}
+.cont2 button{
+    background-color: darkgoldenrod;
+    border-radius: 15px;
+    border: 2px solid black;
+    width: 15%;
+    color:darkmagenta;
+    float: left;
+    margin-left: 50px;
+    text-decoration: none;
+    
+}
+.cont2 a{
+    text-decoration: none;
+}
+.cont2 i{
+ font-size: 35px;
+ margin-top: 80px;
+ width: 150px;
+ color: darkmagenta;
+}
+.locate i{
+    font-size: 35px;
+    margin-top: 80px;
+    width: 150px;
+    color: darkmagenta;
+    margin-left: 10%;
+    width: 300px;
 }
