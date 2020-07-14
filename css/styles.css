@@ -1,6 +1,6 @@
 body{
     color: black;
-    background-color: lightgoldenrodyellow;
+  
 }
 .header{
     background-color:grey;
@@ -37,11 +37,15 @@ h1{text-align: center;
     float:right;
     margin-bottom: 10%;
 }
+
+.sec3{
+    height: 1090px;
+}
  
 .footer{
     color: brown;
     bottom: 0;
-    background-color: grey;
+    background-color:darkgrey;
     min-height: 150px;
     margin-top: 50%;
 }
@@ -60,7 +64,7 @@ h1{text-align: center;
      text-align: center;
 }
  .sec1{
-     min-height: 200%;
+    max-height: 3500px;
      background-color:white;
  }
  .end2 i{
@@ -94,8 +98,8 @@ h1{text-align: center;
     background-color: skyblue;
     min-height: 650px;
 }
-h5{
-    text-align: right !important;
+.h5{
+    text-align: right;
     font-size: 30px;
     font-style: italic;
     margin-left: 30%;
@@ -114,15 +118,142 @@ h5{
     float:left;
     width: 150px;
 }
-h1{
-    text-align: center;
-    font-size: 30px;
-    font-style: italic;
-}
+
 .e3{
     text-align: center;
 
 }
 h3{
     margin-top: 100px;
+}
+.js{
+    margin-left: 1%;
+    margin-top: 15%;
+}
+.best{
+    background-color:darkgray;
+    min-height: 700px;
+}
+h4{
+    text-align: center;
+    font-weight: 1000;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+
+}
+.best img{
+    width: 300px;
+    height: 250px;
+    float:left;
+    padding: 5%;
+    margin-top: -3%;
+    padding-right: 20%;
+    margin-left: 10px;
+}
+.expertise{
+    background-color: orange;
+    text-align: center;
+    font-size: 30px;
+}
+.expertise img{
+    width: 900px;
+    height: 600px;
+}
+.bye{
+    background-color:whitesmoke;
+    min-height: 100px;
+    text-align: center;
+    font-size: 40px;
+    height: 250px;
+    }
+
+.bye1{
+    background-color:whitesmoke;
+    min-height: 100px;
+    text-align: center;
+    font-size: 40px;
+    height: 250px;
+    margin-top: 15px;
+    }
+
+button{
+    width: 30%;
+    margin-top: 7%;
+    color: tomato;
+    background-color: black;
+    font-size: 25px;
+    }
+.bio{
+    background-color:skyblue;
+    }
+    
+.bio h2{
+    text-align: center;
+}  
+.bio img {
+    width: 200px;
+    height: 300px;
+}
+.p{
+    float: right;
+    margin-right: 25%;
+    line-height: 20px;
+    margin-top: -2%;
+}
+.hobbies{
+background-color: darkgrey;
+height: 550px;
+text-align: center;
+line-height: 50px;
+}
+
+.chess,.foot,.poetry{
+    margin-top: 40px;
+    width: 32%;
+    float: left;
+}
+.chess{
+    margin-left: 20px;
+}
+.lastone{
+    width: 100%;
+    line-height: 70px;
+    border-top: 1px solid black;
+    text-align: center;
+    background-color: grey;
+    font-size: 25px;
+}
+.moringa,.muva,.andela{
+    width: 32%;
+    height: 20%;
+    float: left;
+    font-style: italic;
+    font-weight: bold;
+}
+/* .andela img{
+    width:350px;
+    height: 270px;
+    margin-top: -10%;
+} */
+.courses h2{
+    text-align: center;
+}
+.moringa img,.muva img,.andela img{
+    margin-bottom: 64px;
+    width: 40%;
+    margin-left:150px ;
+    margin-top: 10%;
+}
+
+.moringa p,.muva p,.andela p{
+margin-left: 150px;
+
+}
+.courses{
+    background-color:cyan;
+    height: 500px;
+}
+
+.courses h1{
+    line-height: 70px;
 }
