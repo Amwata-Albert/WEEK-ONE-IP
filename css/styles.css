@@ -92,7 +92,13 @@ h1{text-align: center;
     margin-top:30%;
     width: 100%;
     background-color: skyblue;
-    min-height: 600px;
+    min-height: 650px;
+}
+h5{
+    text-align: right !important;
+    font-size: 30px;
+    font-style: italic;
+    margin-left: 30%;
 }
 .e1,.e2{
     width:48%;
